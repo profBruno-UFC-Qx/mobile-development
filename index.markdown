@@ -3,7 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+nav_order: 0
 ---
 
 
-sdasdasd
+## Bem-vindos
+
+Está página é dedicada a disciplina de Desenvolvimento para Dispositivos Móveis.
+Aqui disponibilizarei as vídeos aulas das disciplinas bem como a notas de aula.
+Utilizaremos esta página juntamente com o nosso discord.
+
+Abaixo vocês podem conferir o planejamento da disciplina.
