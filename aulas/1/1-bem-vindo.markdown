@@ -1,5 +1,5 @@
 ---
-title: Aula 1 - Apresentação da disciplina
+title: 1. Apresentação da disciplina
 parent: Aula 1
 nav_order: 1
 youtubeId: 7QLhv1Ivyp0
@@ -16,5 +16,5 @@ Nesta aula iremos falar sobre a justificativas, objetivos gerais, conteúdo da n
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
-[Próxima aulas](#){: .btn }
+[Próxima aulas](2-DiceRoller-App.html){: .btn }
 </span>
