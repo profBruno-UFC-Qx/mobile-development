@@ -1,6 +1,6 @@
 ---
 title: 4. Criando o projeto Dice Roller
-parent: Aula 1
+parent: Aula 02 - Criando sua primeira app
 nav_order: 4
 youtubeId: s8uwGSDDnj8
 ---
@@ -49,5 +49,5 @@ Dependendo da velocidade do seu computador e da rede, pode demorar um minuto par
 Este pode ser um bom momento para alongar-se, tomar uma cajuína ou começar a assistir ao próximo vídeo.
 
 <span class="fs-3 float-right">
-[Próxima aulas](5-Executando-o-primeiro-app.html){: .btn }
+[Próxima aulas](5-executando-o-primeiro-app){: .btn }
 </span>

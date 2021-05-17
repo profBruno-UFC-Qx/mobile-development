@@ -1,6 +1,6 @@
 ---
 title: 2. Dice Roller
-parent: Aula 1
+parent: Aula 02 - Criando sua primeira app
 nav_order: 2
 youtubeId: TAPxWVoYhqY
 ---
@@ -14,5 +14,5 @@ No entanto, se você quiser iniciar agora mesmo, visite [o website do Android St
 Para as instruções de instalação, clique no link a seguir [instalando o Android Studio](https://developer.android.com/studio/install).
 
 <span class="fs-3 float-right">
-[Próxima aulas](3-Instalando-AndroidStudio.html){: .btn }
+[Próxima aulas](3-instalando-androidstudio){: .btn }
 </span>

@@ -1,6 +1,6 @@
 ---
-title: Aula 1
-nav_order: 1
+title: Aula 02 - Criando sua primeira app
+nav_order: 2
 has_children: true
 has_toc: false
 ---

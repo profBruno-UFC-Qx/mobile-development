@@ -1,6 +1,6 @@
 ---
 title: 5. Executando o seu primeiro aplicativo
-parent: Aula 1
+parent: Aula 02 - Criando sua primeira app
 nav_order: 5
 youtubeId: BtUZ1DTfED8
 ---
@@ -14,5 +14,5 @@ No entanto, se você quiser iniciar agora mesmo, visite [o website do Android St
 Para as instruções de instalação, clique no link a seguir [instalando o Android Studio](https://developer.android.com/studio/install).
 
 <span class="fs-3 float-right">
-[Próxima aulas](6-Executando-no-emulador.html){: .btn }
+[Próxima aulas](6-Executando-no-emulador){: .btn }
 </span>

@@ -1,6 +1,6 @@
 ---
 title: 6. Executando o seu aplicativo em um emulador
-parent: Aula 1
+parent: Aula 02 - Criando sua primeira app
 nav_order: 6
 youtubeId: 40UffsIS6uk
 ---
@@ -11,5 +11,5 @@ youtubeId: 40UffsIS6uk
 
 
 <span class="fs-3 float-right">
-<i class="fas fa-download">[Próxima aulas](7-Executando-no-dispositivo.html){: .btn }</i>
+<i class="fas fa-download">[Próxima aulas](7-executando-no-dispositivo){: .btn }</i>
 </span>

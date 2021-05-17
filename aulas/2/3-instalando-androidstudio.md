@@ -1,6 +1,6 @@
 ---
 title: 3. Instalando o Android Studio
-parent: Aula 1
+parent: Aula 02 - Criando sua primeira app
 nav_order: 3
 ---
 
@@ -30,5 +30,5 @@ Finalmente, se sua máquina e o sistema operacioal que você utiliza atendem os 
 Também preparamos um [Guia de soluções](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be2884a_troubleshooting-guide-developing-android-apps-in-kotlin/troubleshooting-guide-developing-android-apps-in-kotlin.pdf) de problemas para ajudá-lo a fazer uso total dos recursos e exercícios desta lição.
 
 <span class="fs-3 float-right">
-[Próxima aulas](4-Criando-Dice-Roller.html){: .btn }
+[Próxima aulas](4-criando-dice-roller){: .btn }
 </span>

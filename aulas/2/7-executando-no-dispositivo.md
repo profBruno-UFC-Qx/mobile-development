@@ -1,6 +1,6 @@
 ---
 title: 7. Executando o seu aplicativo em um dispositivo
-parent: Aula 1
+parent: Aula 02 - Criando sua primeira app
 nav_order: 7
 youtubeId: rsGsmcMoWYs
 ---
@@ -24,5 +24,5 @@ Agora você pode começar a executar aplicativos no seu dispositivo.
 Se você ainda encontrar problemas durante a instalação, consulte este [guia de solução de problemas](https://video.udacity-data.com/topher/2018/November/5be2884a_troubleshooting-guide-developing-android-apps-in-kotlin/troubleshooting-guide-developing-android-apps-in-kotlin.pdf).
 
 <span class="fs-3 float-right">
-<i class="fas fa-download">[Próxima aulas](#){: .btn }</i>
+<i class="fas fa-download">[Próxima aulas](8-anatomia-de-uma-app){: .btn }</i>
 </span>
