@@ -17,5 +17,5 @@ Se você está tentando decidir quais versões para apoiar, você pode conferir:
 
 
 <span class="fs-3 float-right">
-<i class="fas fa-download">[Próxima aulas](25-android-compatibilidade){: .btn }</i>
+<i class="fas fa-download">[Próxima aulas](26-exe-vector-drawables){: .btn }</i>
 </span>
