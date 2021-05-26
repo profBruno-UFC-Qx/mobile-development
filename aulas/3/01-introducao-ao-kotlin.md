@@ -7,6 +7,14 @@ youtubeId: d0vbxEBlX2Y
 
 ## Introdução ao Kotlin
 
+
+### Recursos
+
+<span class="fs-3">
+[Slides aqui]({{site.baseurl}}/assets/downloads/03-Kotlin-Fundamentos-Basicos.pdf){: .btn }
+</span>
+
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
