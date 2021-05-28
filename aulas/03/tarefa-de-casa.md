@@ -1,6 +1,7 @@
 ---
 title: Tarefa de Casa
 parent: Aula 03 - Fundamentos básicos de Kotlin
+nav_order: 13
 ---
 
 ## Kotlin Koans
@@ -20,5 +21,5 @@ Tentem fazer o máximo possível para ganhar familiaridade com a linguagem. No e
 Na minha opinião eles podem ser bem confusos para quem está iniciando a programar em Kotlin.
 
 <span class="fs-3 float-right">
-[Próxima aulas](../4/){: .btn }
+[Próxima aulas](encontro-sincrono){: .btn }
 </span>

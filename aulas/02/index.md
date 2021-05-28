@@ -12,5 +12,5 @@ iremos abordar os atividades básicas do plataforma Android, como mostrar texto 
 Além disso, iremos apresentar as ferramentas Android que iremos utilizar ao longo da disciplina.
 
 <span class="fs-3 float-right">
-[Próximo](1-bem-vindo.html){: .btn }
+[Próximo](2-diceroller-app){: .btn }
 </span>

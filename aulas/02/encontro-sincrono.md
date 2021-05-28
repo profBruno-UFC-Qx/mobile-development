@@ -1,5 +1,5 @@
 ---
-title: 28. Encontro Síncrono
+title: Encontro Síncrono
 parent: Aula 02 - Criando sua primeira app
 nav_order: 28
 ---

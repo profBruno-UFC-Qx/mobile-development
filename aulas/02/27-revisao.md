@@ -10,5 +10,5 @@ youtubeId: hoB6X7Ul_mQ
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
-<i class="fas fa-download">[Próxima aulas](28-sincrono){: .btn }</i>
+<i class="fas fa-download">[Próxima aulas](encontro-sincrono){: .btn }</i>
 </span>
