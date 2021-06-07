@@ -11,7 +11,7 @@ youtubeId: Cthm9PV_FFE
 ### Recursos
 
 <span class="fs-3">
-[Slides aqui]({{site.baseurl}}/assets/downloads/03-Kotlin-Fundamentos-Basicos.pdf){: .btn }
+[Slides aqui]({{site.baseurl}}/assets/downloads/04-Layouts.pdf){: .btn }
 </span>
 
 
