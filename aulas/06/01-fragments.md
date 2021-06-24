@@ -18,5 +18,5 @@ youtubeId: d7V0PlOtTfk
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
-<i class="fas fa-download">[Próxima aulas](02-architecture-components){: .btn }</i>
+<i class="fas fa-download">[Próxima aulas](02-navigation-components){: .btn }</i>
 </span>
