@@ -1,0 +1,35 @@
+- [ ] Create DTOs (POJOs/POCOs)
+- [x] Default values for function parameters
+- [ ] Filter a list
+- [ ] Check the presence of an element in a collection
+- [x] String interpolation
+- [ ] Read standard input safely
+- [ ] Instance checks
+- [x] Read-only list
+- [ ] Read-only map
+- [ ] Access a map entry
+- [ ] Traverse a map or a list of pairs
+- [ ] Iterate over a range
+- [ ] Lazy property
+- [x] Extension functions
+- [ ] Create a singleton
+- [ ] Use inline value classes for type-safe values
+- [ ] Untitled aside
+- [ ] Instantiate an abstract class
+- [ ] If-not-null shorthand
+- [ ] If-not-null-else shorthand
+- [ ] Execute an expression if null
+- [ ] Get first item of a possibly empty collection
+- [ ] Execute if not null
+- [ ] Map nullable value if not null
+- [ ] Return on when statement
+- [ ] try-catch expression
+- [ ] if expression
+- [ ] Builder-style usage of methods that return Unit
+- [x] Single-expression functions
+- [ ] Call multiple methods on an object instance (with)
+- [ ] Configure properties of an object (apply)
+- [ ] Java 7's try-with-resources
+- [ ] Generic function that requires the generic type information
+- [ ] Swap two variables
+- [ ] Mark code as incomplete (TODO)
