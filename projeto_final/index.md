@@ -2,9 +2,10 @@
 title: Projeto Final
 has_children: true
 has_toc: true
-prazo_proposta: A Definir
-prazo_modelagem: A Definir
-prazo_codigo: A Definir
+prazo_proposta: 10/10/2025
+prazo_telas: A Definir
+prazo_func: A Definir
+prazo_final: 11/01/2026
 ---
 
 # Projeto Final
@@ -17,17 +18,6 @@ prazo_codigo: A Definir
   - [📊 Critérios de avaliação ](#-critérios-de-avaliação-)
   - [📅 Entregas](#-entregas)
     - [🗣️ Apresentação do trabalho ](#️-apresentação-do-trabalho-)
-
-<!--
-  * [Proposta](#proposta)
-  * [Configurando o backend](#back01)
-  * [API REST de Usuários](#back02)
-  * [Salvando as informações no banco de dados](#back03)
-  * [Autenticação e Autorização](#back04)
-  * [Página de login e cadastro](#front01)
-  * [Protegendo rotas no front](#front02)
-  * [Entrega final](#final)
--->
 
 
 
@@ -51,19 +41,20 @@ O trabalho pode ser feito em equipe
 
 ## ✅ Requisitos mínimos <a name="req"></a>
 
-1. O aplicativo deverá obrigatoriamente incluir:
-2. Múltiplas telas com navegação entre elas.
-3. Cadastro, edição e exclusão de informações (CRUD).
-4. Persistência local de dados (Room ou DataStore).
-5. Listagem dinâmica de dados usando LazyColumn ou LazyRow.
-6. Uso de MaterialTheme, com modo claro/escuro.
-7. Integração com API externa .
+-  O aplicativo deverá obrigatoriamente incluir:
+  1. Múltiplas telas com navegação entre elas.
+  1. Cadastro, edição e exclusão de informações (CRUD).
+  1. Persistência local de dados (Room ou DataStore).
+  1. Uso de MaterialTheme, com modo claro/escuro.
+  1. Integração com API externa.
+  1. Utilizar UMA das funcionalidades a seguir: 
+        - Uso de GPS/Mapas
+        - Uso de sensores.
+        - Integração com câmera ou galeria
+        - Notificações locais ou push
 
 ## ⭐ Funcionalidades Bônus (para pontuação extra)
 
-- Uso de GPS/Mapas.
-- Integração com câmera ou galeria.
-- Notificações locais ou push.
 - Animações, gestos ou outros recursos avançados do Compose.
 - Testes unitários ou de interface
 
@@ -110,11 +101,20 @@ Não serão aceitos trabalhos implementados em um único commit.
 
 ## 📅 Entregas
 
-**Em construção**
+As entrega serão realizdas via Github e Github classroom.
+A seguir você pode conferir o prazo das entragas:
+
+| Entrega | Descrição | Prazo |
+|:---|:---|:---|
+| Entrega 0 - Proposta | Proposta de aplicativo que a ser desenvolido | {{ page.prazo_proposta }}  |
+| Entrega 1 - Primeira versão  das telas | Algumas das telas proposta devem ser entregues utilizando dados fixos (*hardcoded*). Estas versões não precisam ser polidas do ponto de vista UI/UX, são somente as primeiras versões. A quantidade de telas depende do projeto proposto. | {{ page.prazo_telas }} |
+| Entrega 2 - Funcionalidade princial | Uma funcionalidade importante do sistema deve ser entregue, mesmo com alguams limitações. Podem usar dados fixos (*hardcoded*) | {{ page.prazo_func }} |
+| Entrega 3 - Entrega final | Projeto completo e completamente funcional | {{ page.prazo_final }} |
+
+{: .important }
+> Para ter acesso ao repositório template e o formato da proposta acesso [o assignment no GitHub Classroom](https://classroom.github.com/a/AR7CADm8).
 
 ### 🗣️ Apresentação do trabalho <a name="apresentacao"></a>
 
-O trabalho também deverá necessariamente ser apresentado conforme cronograma da disciplina. A não apresentação do trabalho pelo aluno em sua anulação.
-{: .label .label-red }
 
 
