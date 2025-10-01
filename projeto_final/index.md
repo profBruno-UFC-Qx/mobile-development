@@ -2,6 +2,7 @@
 title: Projeto Final
 has_children: true
 has_toc: true
+nav_order: 23
 prazo_proposta: 10/10/2025
 prazo_telas: A Definir
 prazo_func: A Definir

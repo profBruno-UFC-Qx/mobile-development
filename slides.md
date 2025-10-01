@@ -1,5 +1,6 @@
 ---
 title: Notas de aula
+nav_order: 26
 ---
 
 ## Notas de aula

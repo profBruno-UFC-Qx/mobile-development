@@ -1,5 +1,6 @@
 ---
 title: Mini-apps
+nav_order: 22
 ---
 
 ### Mini-apps
