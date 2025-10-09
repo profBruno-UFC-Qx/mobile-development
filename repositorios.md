@@ -4,6 +4,16 @@ title: Repositórios de exemplos
 
 ## Exemplos práticos em código
 
+### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-WaterCalc" target="_blank">WaterCalc - Acompanhe sua meta diária de ingestão de água</a>
+
+Este repositório demonstra o uso de diversas boas práticas do desenvolvimento Android:
+
+ - Reuso de modifiers, Gerenciamento de estados, State hoisting e mais.
+
+Confiram o Readme.md para mais detalhes.
+
+<hr/>
+
 <!--
 * <a href="https://github.com/profBruno-UFC-Qx/qxd-0193-static-web-server" target="_blank">Servidor Web de recursos estáticos</a> <span class="label label-green">Node</span>
 * <a href="https://github.com/profBruno-UFC-Qx/qxd0193-simple-dynamic-server" target="_blank">Servidor capaz de servir páginas dinâmicas usando formulários HTML</a> <span class="label label-green">Node</span>
