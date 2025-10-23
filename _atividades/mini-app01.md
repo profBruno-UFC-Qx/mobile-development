@@ -4,5 +4,5 @@ nome: Calculadora de IMC
 link: https://classroom.github.com/a/CUACcDV8
 peso: 1
 formulario: https://forms.gle/ytpnh6PRjFaFxcBQ7
-prazo: 
+prazo: 03/11/2025 às 11h
 ---
