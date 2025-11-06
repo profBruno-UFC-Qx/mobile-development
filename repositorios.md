@@ -14,6 +14,16 @@ Confiram o Readme.md para mais detalhes.
 
 <hr/>
 
+### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-todo-list" target="_blank">Todo List</a>
+
+Este repositório demonstra o uso de lazy list e boas práticas relacionadas ao seu uso:
+
+ - LazyListState, Gerenciamento de lista, animação e mais
+
+ Confiram o Readme.md para mais detalhes
+
+ <hr/>
+
 <!--
 * <a href="https://github.com/profBruno-UFC-Qx/qxd-0193-static-web-server" target="_blank">Servidor Web de recursos estáticos</a> <span class="label label-green">Node</span>
 * <a href="https://github.com/profBruno-UFC-Qx/qxd0193-simple-dynamic-server" target="_blank">Servidor capaz de servir páginas dinâmicas usando formulários HTML</a> <span class="label label-green">Node</span>
