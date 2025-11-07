@@ -1,7 +1,7 @@
 ---
-title: Aula 06 - Ciclo de vida e Gerenciamento de Estado
+title: Aula 06 - Gerenciamento de Estados e Ciclo de Vida
 nav_order: 6
-has_children: false
+has_children: true
 has_toc: false
 next: ../07
 ---

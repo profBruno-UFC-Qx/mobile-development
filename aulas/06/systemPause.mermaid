@@ -1,0 +1,16 @@
+sequenceDiagram
+    participant User
+    participant Activity
+    participant OS
+
+    Note over Activity: App is running and in the foreground.
+    
+    Note over User, OS: System shows a permission dialog.
+    OS->>OS: Incoming call or permission request
+    OS->>Activity: onPause()
+    Note over Activity: Activity is partially visible but not in focus.
+
+    Note over User, OS: User dismisses the dialog.
+    User->>OS: Interacts with dialog (e.g., clicks "Allow" or "Deny")
+    OS->>Activity: onResume()
+    Note over Activity: Activity regains focus and is fully interactive.
