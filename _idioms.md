@@ -1,4 +1,4 @@
-- [ ] Create DTOs (POJOs/POCOs)
+- [x] Create DTOs (POJOs/POCOs)
 - [x] Default values for function parameters
 - [ ] Filter a list
 - [ ] Check the presence of an element in a collection
@@ -9,8 +9,8 @@
 - [ ] Read-only map
 - [ ] Access a map entry
 - [ ] Traverse a map or a list of pairs
-- [ ] Iterate over a range
-- [ ] Lazy property
+- [x] Iterate over a range
+- [x] Lazy property
 - [x] Extension functions
 - [ ] Create a singleton
 - [ ] Use inline value classes for type-safe values
@@ -22,9 +22,9 @@
 - [ ] Get first item of a possibly empty collection
 - [ ] Execute if not null
 - [ ] Map nullable value if not null
-- [ ] Return on when statement
+- [x] Return on when statement
 - [ ] try-catch expression
-- [ ] if expression
+- [x] if expression
 - [ ] Builder-style usage of methods that return Unit
 - [x] Single-expression functions
 - [ ] Call multiple methods on an object instance (with)
