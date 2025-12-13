@@ -19,6 +19,15 @@ Confiram o Readme.md para mais detalhes.
 Este repositório demonstra o uso de lazy list e boas práticas relacionadas ao seu uso:
 
  - LazyListState, Gerenciamento de lista, animação e mais
+ - Persistência com Room
+
+ Confiram o Readme.md para mais detalhes
+
+ <hr/>
+
+### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-dragon-ball" target="_blank">Dragon Ball API Consumer</a>
+
+Este repositório demonstra o uso da biblioteca de Navegação Navigation 3 juntamente com Layouts Canônicos do Material Design e consumo de API REST usando Retrofit e Ktor.
 
  Confiram o Readme.md para mais detalhes
 
