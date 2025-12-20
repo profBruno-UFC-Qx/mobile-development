@@ -1,5 +1,5 @@
 ---
-title: Aula 10 - Navegação Avançada e Navigation Component
+title: Aula 10 - Coroutines e Acesso a Internet
 nav_order: 10
 has_children: true
 has_toc: false

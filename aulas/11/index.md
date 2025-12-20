@@ -1,5 +1,5 @@
 ---
-title: Aula 11 - Coroutines e Processamento Assíncrono
+title: Aula 11 - Persistência com Room e DataStore
 nav_order: 11
 has_children: true
 has_toc: false
