@@ -1,8 +1,8 @@
 ---
 numero: 6
-nome: Hidrate-se
-link: https://classroom.github.com/a/1Z4vLy2G
+nome: Lanterna Inteligente
+link: https://classroom.github.com/a/RRQbny96
 peso: 1
-formulario: https://forms.gle/Aof7a8qn7cLRXjpx8
+formulario: https://forms.gle/MnBv7mR41CfGPFJr7
 prazo: 
 ---

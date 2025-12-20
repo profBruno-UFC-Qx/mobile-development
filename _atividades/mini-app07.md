@@ -1,8 +1,8 @@
 ---
 numero: 7
-nome: Pokédex
-link: https://classroom.github.com/a/eJPW2Wxd
+nome: Hidrate-se
+link: https://classroom.github.com/a/1Z4vLy2G
 peso: 1
-formulario: https://forms.gle/Uwk1vJZxb8n1cs2P6
+formulario: https://forms.gle/Aof7a8qn7cLRXjpx8
 prazo: 
 ---
