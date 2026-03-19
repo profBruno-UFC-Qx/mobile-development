@@ -6,7 +6,7 @@ nav_order: 23
 prazo_proposta: 10/10/2025
 prazo_telas: A Definir
 prazo_func: A Definir
-prazo_final: 11/01/2026
+prazo_final: 21/06/2026
 ---
 
 # Projeto Final
