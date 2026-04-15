@@ -14,6 +14,18 @@ Confiram o Readme.md para mais detalhes.
 
 <hr/>
 
+### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-my-food" target="_blank">My Food - Um aplicativo de delivery fictício de Quixadá</a>
+
+Este repositório demonstra o uso de diversas elementos de layout de listas no desenvolvimento Android:
+
+ - Column e Row
+ - LazyColumn e LazyRow
+ - LazyHorizontalGrid
+
+Confiram o Readme.md para mais detalhes.
+
+<hr/>
+
 ### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-todo-list" target="_blank">Todo List</a>
 
 Este repositório demonstra o uso de lazy list e boas práticas relacionadas ao seu uso:
