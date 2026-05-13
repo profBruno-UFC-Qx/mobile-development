@@ -4,7 +4,7 @@ has_children: true
 has_toc: true
 nav_order: 23
 prazo_proposta: 10/10/2025
-prazo_telas: A Definir
+prazo_telas: 31/05/2026
 prazo_func: A Definir
 prazo_final: 21/06/2026
 ---
@@ -109,11 +109,14 @@ A seguir você pode conferir o prazo das entragas:
 |:---|:---|:---|
 | Entrega 0 - Proposta | Proposta de aplicativo que a ser desenvolido | {{ page.prazo_proposta }}  |
 | Entrega 1 - Primeira versão  das telas | Algumas das telas proposta devem ser entregues utilizando dados fixos (*hardcoded*). Estas versões não precisam ser polidas do ponto de vista UI/UX, são somente as primeiras versões. A quantidade de telas depende do projeto proposto. | {{ page.prazo_telas }} |
+| Entrega 2 - Entrega final | Projeto completo e completamente funcional. [Entregar relato de experiência](https://forms.gle/C2MvRSKnn11odHUq5) | {{ page.prazo_final }} |
+
+{% comment %}
 | Entrega 2 - Funcionalidade princial | Uma funcionalidade importante do sistema deve ser entregue, mesmo com alguams limitações. Podem usar dados fixos (*hardcoded*) | {{ page.prazo_func }} |
-| Entrega 3 - Entrega final | Projeto completo e completamente funcional. [Entregar relato de experiência](https://forms.gle/C2MvRSKnn11odHUq5) | {{ page.prazo_final }} |
+{% endcomment %}
 
 {: .important }
-> Para ter acesso ao repositório template e o formato da proposta acesso [o assignment no GitHub Classroom](https://classroom.github.com/a/AR7CADm8).
+> Para ter acesso ao repositório template e o formato da proposta acesse [o assignment no GitHub Classroom](https://classroom.github.com/a/AR7CADm8).
 
 ### 🗣️ Apresentação do trabalho <a name="apresentacao"></a>
 
