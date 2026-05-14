@@ -1,7 +1,7 @@
 ---
-title: Aula 10 - Coroutines e Acesso a Internet
+title: Aula 10 - Navegação
 nav_order: 10
-has_children: true
+has_children: false
 has_toc: false
 next: ../11
 ---
