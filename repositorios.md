@@ -26,6 +26,14 @@ Confiram o Readme.md para mais detalhes.
 
 <hr/>
 
+### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-coroutine-house-builder" target="_blank">House Builder</a>
+
+Este repositório demonstra como podemos utilizar *Coroutines* para realizar tarefas de forma assíncrona.
+
+Confiram o Readme.md para mais detalhes
+
+<hr/>
+
 ### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-todo-list" target="_blank">Todo List</a>
 
 Este repositório demonstra o uso de lazy list e boas práticas relacionadas ao seu uso:
