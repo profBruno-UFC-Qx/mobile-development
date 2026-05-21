@@ -49,9 +49,18 @@ Este repositório demonstra o uso de lazy list e boas práticas relacionadas ao 
 
 Este repositório demonstra o uso da biblioteca de Navegação Navigation 3 juntamente com Layouts Canônicos do Material Design e consumo de API REST usando Retrofit e Ktor.
 
- Confiram o Readme.md para mais detalhes
+Confiram o Readme.md para mais detalhes
 
  <hr/>
+
+### <a href="https://github.com/profBruno-UFC-Qx/qxd0276-manga-store-mobile" target="_blank">Manga Store</a>
+
+Este repositório demonstra o uso da biblioteca de Navegação Navigation 3 juntamente com Layouts Canônicos do Material Design e consumo de API REST usando Ktor.
+
+Além disso, o código utiliza componentes do Compose e outra técnicas para construir uma interface mais elaborada.
+
+Confiram o Readme.md para mais detalhes
+
 
 <!--
 * <a href="https://github.com/profBruno-UFC-Qx/qxd-0193-static-web-server" target="_blank">Servidor Web de recursos estáticos</a> <span class="label label-green">Node</span>
